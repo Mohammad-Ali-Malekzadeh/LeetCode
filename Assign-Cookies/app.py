@@ -14,7 +14,7 @@ class Solution:
                     break
         return result
     
-# V2 - 130 ms 😎
+# V2 -  130 ms 😎
 class Solution:
     def findContentChildren(self, g: list[int], s: list[int]) -> int:
         # Coockies
